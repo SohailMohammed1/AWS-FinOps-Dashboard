@@ -1,0 +1,47 @@
+[
+  {
+    "service": "Amazon Simple Storage Service",
+    "amount": 6.9e-08,
+    "unit": "USD"
+  },
+  {
+    "service": "AWS Glue",
+    "amount": 0.0,
+    "unit": "USD"
+  },
+  {
+    "service": "AWS Key Management Service",
+    "amount": 0.0,
+    "unit": "USD"
+  },
+  {
+    "service": "AWS Secrets Manager",
+    "amount": 0.0,
+    "unit": "USD"
+  },
+  {
+    "service": "Amazon Location Service",
+    "amount": 0.0,
+    "unit": "USD"
+  },
+  {
+    "service": "Amazon Simple Notification Service",
+    "amount": 0.0,
+    "unit": "USD"
+  },
+  {
+    "service": "Amazon Simple Queue Service",
+    "amount": 0.0,
+    "unit": "USD"
+  },
+  {
+    "service": "AmazonCloudWatch",
+    "amount": 0.0,
+    "unit": "USD"
+  },
+  {
+    "service": "AWS Data Transfer",
+    "amount": -6.9e-08,
+    "unit": "USD"
+  }
+]
