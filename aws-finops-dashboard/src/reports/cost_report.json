@@ -1,7 +1,7 @@
 [
   {
     "service": "Amazon Simple Storage Service",
-    "amount": 6.9e-08,
+    "amount": 3.62e-08,
     "unit": "USD"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "service": "AWS Data Transfer",
-    "amount": -6.9e-08,
+    "amount": -3.62e-08,
     "unit": "USD"
   }
 ]

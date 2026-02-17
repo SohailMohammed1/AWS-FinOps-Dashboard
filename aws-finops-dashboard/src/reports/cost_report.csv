@@ -1,5 +1,5 @@
 service,amount,unit
-Amazon Simple Storage Service,6.9e-08,USD
+Amazon Simple Storage Service,3.62e-08,USD
 AWS Glue,0.0,USD
 AWS Key Management Service,0.0,USD
 AWS Secrets Manager,0.0,USD
@@ -7,4 +7,4 @@ Amazon Location Service,0.0,USD
 Amazon Simple Notification Service,0.0,USD
 Amazon Simple Queue Service,0.0,USD
 AmazonCloudWatch,0.0,USD
-AWS Data Transfer,-6.9e-08,USD
+AWS Data Transfer,-3.62e-08,USD

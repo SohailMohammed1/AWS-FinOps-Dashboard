@@ -209,3 +209,7 @@ __marimo__/
 #AWS CLI Installer
 awscliv2.zip
 aws/
+
+# Generated reports
+aws-finops-dashboard/src/reports/*.csv
+aws-finops-dashboard/src/reports/*.json
