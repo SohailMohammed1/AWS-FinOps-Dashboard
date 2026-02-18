@@ -41,7 +41,7 @@ def fetch_cost_by_service(days: int = 30) -> list[dict]:
 def write_reports(results: list[dict]) -> None:
             
     # Anchor outputs to src/
-    SRC_DIR = Path(__file__).resolve().parent.parent  #
+    SRC_DIR = Path(__file__).resolve().parent.parent  
     REPORTS_DIR = SRC_DIR / "reports"
     REPORTS_DIR.mkdir(exist_ok=True)
 
