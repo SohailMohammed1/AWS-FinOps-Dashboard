@@ -39,12 +39,12 @@ def fetch_cost_by_service(days: int = 30) -> list[dict]:
 
 
 def write_reports(results: list[dict]) -> None:
-    with open("aws-finops-dashboard/src/reports/cost_report.csv", "w", newline="", encoding="utf-8") as f:
-        
+            
     # Anchor outputs to src/
-        SRC_DIR = Path(__file__).resolve().parent.parent  #
-        REPORTS_DIR = SRC_DIR / "reports"
-        REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+    SRC_DIR = Path(__file__).resolve().parent.parent  #
+    REPORTS_DIR = SRC_DIR / "reports"
+    REPORTS_DIR.mkdir(exist_ok=True)
+
 
     # CSV
     csv_path = REPORTS_DIR / "cost_report.csv"
